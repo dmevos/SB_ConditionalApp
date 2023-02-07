@@ -21,5 +21,4 @@ public class JavaConfig {
     public SystemProfile prodProfile() {
         return new ProductionProfile();
     }
-
 }
